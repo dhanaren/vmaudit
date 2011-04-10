@@ -19,7 +19,7 @@
 	<!-- ==================== Global Forward Definitions -->
 
 	<global-forwards>
-		<forward name="anaindex" path="/jsp/index.jsp"></forward>
+		<forward name="vmcheckhome" path="/jsp/home.jsp"></forward>
 	</global-forwards>
 
 	<!-- ==================== Action Mapping Definitions -->
