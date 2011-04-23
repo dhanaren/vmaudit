@@ -4,27 +4,28 @@
 	<!-- #Project specific props -->
 	<property file="build.properties" />
 
-	<property name="root.dir" location="${basedir}" />
+	<property name="root.dir" location="../" />
+	<property name="buildbase.dir" location="${basedir}" />
 	<property name="project.name" value="/${project.name}" />
 
 	<property name="tomcat.home" value="${tomcat.home}" />
 	<property name="app.path" value="/${project.name}" />
 	<property name="java.home" value="/${java.home}" />
 
-	<property name="build.home" value="${root.dir}/build" />
+	<property name="build.home" value="${buildbase.dir}/build" />
 	<property name="lib.home" value="${root.dir}/lib" />
-	<property name="dist.home" value="${root.dir}/dist" />
+	<property name="dist.home" value="${buildbase.dir}/dist" />
 	<property name="src.home" value="${root.dir}/src" />
 	<property name="web.home" value="${root.dir}/web" />
 	<!-- archive directory setup -->
-	<property name="dist.dir" location="${root.dir}/dist" />
+	<property name="dist.dir" location="${buildbase.dir}/dist" />
 	<property name="dist.project.dir" location="${dist.dir}/${project.name}" />
 	<property name="dist.project.war.dir" location="${dist.dir}/${project.name}/war" />
 	<!-- Project setup -->
 	<property name="project.root.dir" location="${root.dir}" />
 	<property name="module.lib.dir" location="${root.dir}/lib" />
 	<!-- build directory setup -->
-	<property name="build.dir" location="${root.dir}/build" />
+	<property name="build.dir" location="${buildbase.dir}/build" />
 	<property name="build.classes.dir" location="${build.dir}/WEB-INF/classes" />
 	<!-- webapp directory setup -->
 	<property name="webapp.dir" location="${tomcat.home}/webapps" />
@@ -69,6 +70,7 @@
 	<target name="undeploy-ear" description="UnDeploy ear file from web server">
 		<echo>${webapp.dir}\${project.name}</echo>
 		<delete dir="${webapp.dir}\${project.name}" />
+		<delete file="${webapp.dir}\${project.name}.war" />
 	</target>
 	<!-- ==================== Compile Target ================================== -->
 
