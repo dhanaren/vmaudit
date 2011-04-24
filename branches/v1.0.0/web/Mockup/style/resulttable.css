@@ -1,0 +1,102 @@
+/*
+Description: Style sheet for resulttable related elements.
+
+Author: Peter Lauko (peter.lauko@ahbrt.hu)
+Version: %version%
+*/
+
+
+/* Result table header */
+
+/* Div tag that contains the header part of the result table */
+DIV.TableHeadingPane
+{
+    padding-right: 0px;
+    width: 640px; /* 654 - 2*7 (padding on both sides is reduced) */
+}
+
+/* Caption of the column in the table's header */
+DIV.TableHeadingPane TH
+{
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: #291B48;
+    padding-top: 2px;
+    padding-bottom:2px;
+    padding-left:2px;
+    padding-right:2px;
+}
+
+
+/* Selected column in the table's header */
+DIV.TableHeadingPane TH.Selected
+{
+    color: #291B48;
+}
+
+
+
+/* Result table body */
+
+/* Div tag that contains the body part of the result table */
+DIV.TableBodyPane
+{
+    margin-bottom: 5px;
+    height: 320px;
+    overflow: auto;
+    
+    scrollbar-3dlight-color:#19194B;
+	scrollbar-arrow-color:#19194B;
+	scrollbar-base-color:;
+	scrollbar-darkshadow-color:#DEE0E2;
+	scrollbar-face-color:#DEE0E2;
+	scrollbar-highlight-color:#DEE0E2;
+    scrollbar-shadow-color:#19194B;
+    scrollbar-track-color:#DEE0E2;	
+}
+
+
+/* A row in the table */
+DIV.TableBodyPane TR
+{
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 9px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    vertical-align: top;
+    background-color: white;
+    color: #353B87;
+}
+
+DIV.TableBodyPane TR TD
+{
+	border-color: #DEE0E2;
+	border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+	font-size: 9px;
+}
+
+
+DIV.TableBodyPane TR.First TD
+{
+    border-top-width: 0px;
+}
+
+
+/* Highlights selected row */
+DIV.TableBodyPane TR.Selected
+{
+    background-color: Silver;
+}
+
+DIV.TableBodyPane INPUT
+{
+    width:100%;
+}
+

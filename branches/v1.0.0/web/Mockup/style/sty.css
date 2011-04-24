@@ -1,0 +1,217 @@
+
+table,th,tr,td {
+	font-family:Verdana, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.main_middle_table
+{ border: #ECE9D8 solid 1px; background-color:#113388;}
+
+.main_middle_table th
+{ text-align: left; color:#FFFFFF;}
+
+
+.o {	
+	background-color:#113388;
+	border: #ECE9D8 solid 1px;
+}
+.o th {
+	background-color:#113388;
+	text-align:left;
+	color:#ffffff;
+}
+
+.weotext{ width:120; height:17; border:#9F9A9A solid 1px;}
+
+.largeweo_text{ width:150; height:17; border:#9F9A9A solid 1px;}
+
+.white_heading { font-family:Verdana; font-size:11px; color:#113388;}
+/* for call no :39260126  by Bhargesh on 18-Jan-2011 */
+.button_blue { 
+		background-image:url(../images/gradient_Button.gif); 
+	height:20px; 
+	BORDER-RIGHT: #000000 1px solid; 
+	BORDER-TOP: #000000 1px solid;
+	FONT-SIZE: 10px; 
+	BORDER-LEFT: #000000 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: #000000 1px solid; 	
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+
+.textfield { border: #999999 solid 1px; font-family:Verdana; font-size:10px; color: #000000; height:18px;}
+
+.menu02 {
+	color : #ffffff;	
+	padding-bottom : 0px;	
+	font-size : 11px;
+	font-weight:400;
+	font-family : Tahoma,Verdana,Arial;
+}
+.menu02 a {
+	color : #ffffff;
+	text-decoration: none;
+}
+.menu02 a:hover {
+	color : #555555;
+}
+
+<!--  styles for left pannel -->
+
+.shadow-left {
+	BACKGROUND-IMAGE: url(../images/shadow-left.jpg); WIDTH: 7px; BACKGROUND-REPEAT: repeat-y;
+}
+.shadow-right {
+	BACKGROUND-IMAGE: url(../images/shadow-right.jpg); WIDTH: 7px; BACKGROUND-REPEAT: repeat-y;
+}
+.main {
+	BACKGROUND-COLOR: #ffffff
+}
+
+.BODY { background-color:#FFFFFF;}
+.bg-green {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-green-button.jpg); PADDING-BOTTOM: 3px;  BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #426bb3; TEXT-DECORATION: none;
+}
+.bgorange {
+	BACKGROUND-POSITION: 50% bottom; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bgreqaquote.gif); PADDING-BOTTOM: 4px; COLOR: #000000; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 20px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.search {
+	PADDING-RIGHT: 5px;  PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.text-box {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #666666 1px solid; COLOR: #000000; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 14px; BACKGROUND-COLOR: #ffffff;
+}
+.bg-heading {
+	BORDER-RIGHT: #426bb3 1px solid; BORDER-TOP: #426bb3 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); VERTICAL-ALIGN: middle; BORDER-LEFT: #426bb3 1px solid; COLOR: #000000; background-color:#113388; BORDER-BOTTOM: #426bb3 1px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 20px; TEXT-ALIGN: left
+}
+.bg-heading1 {
+	BORDER-RIGHT: #8fb017 0px solid; BORDER-TOP: #8fb017 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); VERTICAL-ALIGN: middle; BORDER-LEFT: #8fb017 1px solid; COLOR: #3f5100; BORDER-BOTTOM: #8fb017 1px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; TEXT-ALIGN: left
+}
+.heading1 {
+	BORDER-RIGHT: #8fb017 1px solid; BORDER-TOP: #8fb017 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); VERTICAL-ALIGN: middle; BORDER-LEFT: #8fb017 1px solid; COLOR: #3f5100; BORDER-BOTTOM: #8fb017 1px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; TEXT-ALIGN: left
+}
+.list {
+	LIST-STYLE-POSITION: outside; FONT-SIZE: 11px; LIST-STYLE-IMAGE: url(../images/arrow-orange-small.jpg); PADDING-BOTTOM: 10px; COLOR: #000000; PADDING-TOP: 20px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.footer {
+	PADDING-RIGHT: 5px; BORDER-TOP: #426bb3 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #FFFFFF; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 25px; BACKGROUND-COLOR: #113388; TEXT-DECORATION: none
+}
+.content {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 15px; COLOR: #333333; LINE-HEIGHT: 15px; PADDING-TOP: 15px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.content1 {
+	FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.more {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10px; PADDING-BOTTOM: 5px; COLOR: #ff9900; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bg-Oreange {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-blue-button.jpg); PADDING-BOTTOM: 3px; CURSOR: hand; COLOR: #3f5100; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #87BEF5; TEXT-DECORATION: none
+}
+.content-big {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+#topnav A {
+	FONT-SIZE: 11px; CURSOR: hand; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#topnav A:hover {
+	FONT-SIZE: 11px; CURSOR: hand; COLOR: #3f5100; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.leftlink {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e0e9b6; TEXT-DECORATION: none
+}
+.leftlinkmain {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #000000; PADDING-TOP: 5px; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #b3c947; TEXT-DECORATION: none
+}
+#leftnav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; CURSOR: hand; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+#leftnav A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; CURSOR: hand; COLOR: #000000; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#leftnav A:hover {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; CURSOR: hand; COLOR: #3f5100; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; CURSOR: hand; COLOR: #000000; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; CURSOR: hand; COLOR: #3f5100; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+
+.bg-left-panel {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; background-color:#FFFFFF; background-image:url(../images/glossyback.gif);  CURSOR: hand;  BACKGROUND-REPEAT: repeat-x; color:#FFFFFF; HEIGHT: 23px; TEXT-ALIGN: center; font-family:Verdana; font-size:12px; font-weight:bold;}
+	
+
+.style1 {
+	COLOR: #ff6600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style2 {
+	FONT-SIZE: 16px; COLOR: #ff6600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.style20 {
+	FONT-SIZE: 12px; COLOR: #ff6600; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bread-crum {
+	BORDER-RIGHT: #8fb017 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #8fb017 1px solid; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); VERTICAL-ALIGN: middle; BORDER-LEFT: #8fb017 0px solid; CURSOR: hand; COLOR: #000000; BORDER-BOTTOM: #8fb017 1px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; TEXT-DECORATION: none
+}
+.bread-crum A {
+	BORDER-RIGHT: #8fb017 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #8fb017 0px solid; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #8fb017 0px solid; CURSOR: hand; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: #8fb017 0px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; TEXT-DECORATION: none
+}
+.bread-crum A:hover {
+	BORDER-RIGHT: #8fb017 0px solid; PADDING-RIGHT: 0px; BORDER-TOP: #8fb017 0px solid; PADDING-LEFT: 0px; FONT-SIZE: 11px; BACKGROUND-IMAGE: url(../images/bg-title.jpg); PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #8fb017 0px solid; CURSOR: hand; COLOR: #ff3300; PADDING-TOP: 0px; BORDER-BOTTOM: #8fb017 0px solid; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 18px; TEXT-DECORATION: none
+}
+.heading_text {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 5px; COLOR: #ff9900; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.glossymenu, .glossymenu li ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 200px; /*WIDTH OF MAIN MENU ITEMS*/
+border:1px solid white;
+}
+
+.glossymenu li{
+position: relative;
+}
+
+.glossymenu li ul{ /*SUB MENU STYLE*/
+position: absolute;
+width: 180px; /*WIDTH OF SUB MENU ITEMS*/
+left: 0;
+top: 0;
+display: none;
+filter:alpha(opacity=100);
+-moz-opacity:1;
+}
+
+.glossymenu li a{ border:#999999 solid 1px;
+
+font: bold 10px Verdana;
+color: #333333;
+border-bottom:solid 1px #FFFFFF;
+display: block;
+width: auto;
+padding: 5px 0;
+padding-left: 10px;
+text-decoration: none;
+}
+
+.glossymenu .arrowdiv{
+position: absolute;
+right:10px;
+background: transparent url(images/arrow1.gif) no-repeat right;
+}
+
+.glossymenu li a:visited, .glossymenu li a:active{
+color: #333333;
+}
+
+.glossymenu li a:hover{color:#ffffff; background-image: url(glossyback2.gif);}
+
+/* Holly Hack for IE \*/
+* html .glossymenu li { float: left; height: 1%; }
+* html .glossymenu li a { height: 1%; }
+/* End */
