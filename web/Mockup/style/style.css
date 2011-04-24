@@ -1,0 +1,333 @@
+/* CSS Document */
+/* for call no :39260126  by Bhargesh on 18-Jan-2011 */
+.Main_Table
+{ background-image: url(../images/page_Bg.jpg);
+	background-repeat:repeat-x;
+background-color:#F0F8FB;
+border: #999999 solid 1px;
+vertical-align:top;
+}
+
+.style8 {
+	color: #FF0000;
+	font-size: 9px;
+	font-family: Verdana;
+}
+
+.tableheading 
+{
+background-color:#CCCCCC; 
+height:18px; 
+font-family:Verdana, Tahoma; 
+font-size:10px; 
+font-weight:bold; 
+color: #333333;
+}
+
+
+
+.heading 
+{
+height:18px; 
+font-family:Verdana, Tahoma; 
+font-size:12px; 
+font-weight:bold; 
+color:black;
+}
+
+.paragraph
+{
+font-family:Verdana, Tahoma; font-size:11px; font-weight:normal; color:#0099CC; word-spacing:1px;}
+
+
+.style7 {font-family: Verdana; font-size: 10px; color: #333333; }
+a.logout {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #FF9933;
+	font-weight: bold;
+}
+a.logout:link {
+	text-decoration: none;
+}
+a.logout:visited {
+	text-decoration: none;
+	color: #990000;
+}
+a.logout:hover {
+	text-decoration: underline;
+	color: #ffffff;
+}
+a.logout:active {
+	text-decoration: none;
+	color: #990000;
+}
+
+
+.Textfield
+{
+width:130; 
+height: 18; 
+border:#9F9A9A solid 1px;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: 9px;
+}
+
+
+.TR_TD_No_Border{
+color:#000000;
+font-weight: 300;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size:11px; 
+padding-left:5px; 
+}
+
+
+
+
+.Textarea
+{
+width:250; 
+height: 65; 
+border:#9F9A9A solid 1px;
+}
+
+
+.Inner_Table
+{ 
+background-color:#FFFFFF;
+border: #999999 solid 1px;
+}
+
+
+
+a.Link_Heading{
+	font-family: Verdana, Tahoma;
+	font-size: 11px;
+	color: #666666;
+	font-weight: bold;
+}
+.a.Link_Heading:link
+{
+font-family: Verdana, Tahoma; 
+font-size:11px;
+font-weight:normal;
+color:#666666;
+text-decoration:none;
+}
+.a.Link_Heading:visited
+{
+font-family: Verdana, Tahoma; 
+font-size:11px;
+font-weight:normal;
+color:#666666;
+text-decoration:none;
+}
+.a.Link_Heading:hover
+{
+font-family: Verdana, Tahoma; 
+font-size:11px;
+font-weight:normal;
+color: #426bb3;
+text-decoration: underline;
+}
+.a.Link_Heading:active 
+{
+font-family: Verdana, Tahoma; 
+font-size:11px;
+font-weight:normal;
+color:#666666;
+text-decoration:none;
+}
+
+/* for call no :39260126  by Bhargesh on 18-Jan-2011 */
+.button_blue { 
+		background-image:url(../images/gradient_Button.gif); 
+	height:20px; 
+	BORDER-RIGHT: #000000 1px solid; 
+	BORDER-TOP: #000000 1px solid;
+	FONT-SIZE: 10px; 
+	BORDER-LEFT: #000000 1px solid; 
+	COLOR: #000000; 
+	BORDER-BOTTOM: #000000 1px solid; 	
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+}
+/* for call no :39260126  by Bhargesh on 18-Jan-2011 */
+.TD_BLUE_Inner_Table
+{
+background-color:#5293cd;
+font-family: Verdana, Tahoma;
+font-size:12px;
+font-weight:bold;
+color:#FFFFFF;
+padding-left:10px;
+vertical-align:middle;
+border-bottom:#FFFFFF solid 1px;
+}
+
+
+.footerfont {	font-family: Verdana;	font-size: 9px;	color: #333333;}
+
+.Logo_heading
+{
+ background-image:url(../images/head_bg.jpg); 
+ font-family:Verdana, Tahoma; 
+ font-size:12px;
+ font-weight:bold;
+ color:#0072bc;
+
+.grey_TD
+{ 
+ background-color:#D5D3CE;
+ border-top:#848284 solid 1px;
+ border-bottom:#848284 solid 1px;
+
+}
+
+.Grey_heading
+{
+color:#000000;
+font-weight: bold;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size:11px; 
+padding-left:5px;
+padding-right:5px;
+
+}
+
+.Grey_SUB_heading
+{
+color: #666666;
+font-weight:normal;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size:11px; 
+padding-left:5px;
+padding-right:5px;
+
+}
+
+
+
+.Grey_bttomBorder
+{border-bottom:solid 1px #666666;}
+
+.TR_TD_A_1{
+color:#000000;
+font-weight: 300;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size:11px; 
+padding-left:5px; 
+ border-bottom:#F0F4FF solid 1px; 
+border-right:solid 1px #F0F4FF; 
+border-left:solid 1px #F0F4FF; 
+border-top: solid 1px #F0F4FF;
+}
+
+.TR_TD_A_2{
+padding-left:10px; 
+border-bottom:#F0F4FF solid 1px; 
+border-top: solid 1px #F0F4FF; 
+border-right: solid 1px #F0F4FF;}
+
+.TR_TD_B_Inner_1{
+color:#000000; 
+font-weight: 300;
+font-size:11px; 
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  
+padding-left:5px; 
+border-bottom:#F0F4FF solid 1px; 
+border-right:solid 1px #F0F4FF; 
+border-left:solid 1px #F0F4FF;
+}
+
+.TR_TD_B_Inner_2{
+padding-left:10px; 
+border-bottom:#F0F4FF solid 1px; 
+background-color:#ffffff; 
+border-right: solid 1px #F0F4FF;
+}
+
+.MainFont_heading
+{ 
+font-family:Verdana, Tahoma;
+font-size:12px;
+ font-weight:bold;
+ color:#333333;
+}
+
+.table_head_bg
+{ 
+font-family:Verdana, Tahoma;
+font-size:12px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#113388;
+height:25;
+}
+
+
+.option
+{
+width:130; 
+height: 18; 
+border:#9F9A9A solid 1px;
+
+}
+
+.note
+{
+font-family:Verdana, Tahoma;
+font-size:9px;
+color:#FF0000;
+}
+
+.SubFont
+{ 
+font-family:Verdana, Tahoma;
+font-size:10px;
+ font-weight:normal;
+ color: #333333;
+}
+
+.MessageInfo
+{ 
+font-family:Verdana, Tahoma;
+font-size:11px;
+ font-weight:normal;
+ color:#482400;
+ line-height:15px;
+}
+
+
+.BackMsg
+{ 
+font-family:Verdana, Tahoma;
+font-size:10px;
+font-weight:normal;
+color:blue;
+line-height:15px;
+text-decoration:none;
+
+}
+
+.TR_TD_Last_1{
+border-left:#F0F4FF solid 1px; 
+border-bottom:#F0F4FF solid 1px; 
+border-right:#F0F4FF solid 1px; 
+padding-right:5px;}
+
+.TR_TD_Last_2{
+border-right:#F0F4FF solid 1px;  
+border-bottom:#F0F4FF solid 1px; 
+padding-left:5px;}
+/* for call no :39260126  by Bhargesh on 18-Jan-2011 */
+.NEW_BG {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-image: url(../images/page_Bg.jpg);
+	background-color: #999999;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
